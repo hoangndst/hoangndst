@@ -17,4 +17,3 @@ Platform Engineer / Software Engineer / Cloud Engineer / DevOps Engineer üêã ‚é
 - [`Open Tech Summit 2024`](https://eventyay.com/e/0e7340fb/session/9347) [Nov 2024].
 - [`OpenInfra Days North America 2024`](https://sched.co/1jZ8l) [Oct 2024].
 - [`FOSSASIA Summit 2024`](https://eventyay.com/e/55d2a466/session/8968) [Apr 2024].
-----
