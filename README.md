@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi 👋, I'm Hoang Dinh Nguyen (Steve Techs) 👨‍💻
-Platform Engineer / Software Engineer / Cloud Engineer / DevOps Engineer 🐋 ⎈ ☁️
+Platform Engineer / Speaker 🐋 ⎈ ☁️
 ### Check out my talks 🔭
+- [`FOSSASIA Summit 2025`](https://eventyay.com/e/4c0e0c27/session/9434) [Mar 2025].
 - [`Conf42 DevSecOps 2024`](https://www.conf42.com/DevSecOps_2024_Hoang_Dinh_Nguyen_developer_platform_kusion)  [Dec 2024].
 - [`Open Tech Summit 2024`](https://eventyay.com/e/0e7340fb/session/9347) [Nov 2024].
 - [`OpenInfra Days North America 2024`](https://sched.co/1jZ8l) [Oct 2024].
