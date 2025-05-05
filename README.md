@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi 👋, I'm Hoang Dinh Nguyen (Steve Techs) 👨‍💻
-Platform Engineer / Speaker 🐋 ⎈ ☁️
+Platform Engineer / Working on [Kusion](https://www.kusionstack.io/) - a CNCF project / Speaker 🐋 ⎈ ☁️
 ### Check out my talks 🔭
 - [`FOSSASIA Summit 2025`](https://eventyay.com/e/4c0e0c27/session/9434) [Mar 2025].
 - [`Conf42 DevSecOps 2024`](https://www.conf42.com/DevSecOps_2024_Hoang_Dinh_Nguyen_developer_platform_kusion)  [Dec 2024].
