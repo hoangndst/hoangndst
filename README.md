@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋, I'm Hoang Dinh Nguyen (Steve Techs) 👨‍💻
+### Hi, I'm Hoang(Steven) Nguyen 👨‍💻
 Platform Engineer / Working on [Kusion](https://www.kusionstack.io/) - a CNCF project / Speaker 🐋 ⎈ ☁️
 ### Check out my talks 🔭
 - [`FOSSASIA Summit 2025`](https://eventyay.com/e/4c0e0c27/session/9434) [Mar 2025].
